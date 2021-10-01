@@ -67,3 +67,7 @@ I understand my use of the Application is voluntary and I am free to cancel my u
 I agree that my personal data can be transferred to relevant service providers in the country and abroad, within the limits of determined purpose, by retaining them for the maximum period required, to better support me.
 
 I hereby give my explicit consent to UNFPA to process my personal data as described in the Privacy Notice.
+
+
+
+

@@ -1,4 +1,4 @@
-**UNFPA TCDŞ Telefon Uygulaması Kullanıcı Koşulları ve Gizlilik Bildirimi**
+# UNFPA TCDŞ Telefon Uygulaması Kullanıcı Koşulları ve Gizlilik Bildirimi
 
 **Gizlilik Bildirimi**
 
@@ -64,3 +64,10 @@ Uygulama&#39;yı kendi isteğim doğrultusunda kullandığımı ve Uygulama&#39;
 Kişisel verilerimin, tarafıma daha iyi hizmet verilmesi adına gereken azami süreyle saklanarak önceden belirlenmiş amaçlar doğrultusunda ülke içinde ve dışında bulunan ilgili hizmet sağlayıcılara aktarılabileceğini kabul ediyorum.
 
 Kişisel verilerimin Gizlilik Bildirimi&#39;nde belirtildiği şekilde işlenmesi konusunda UNFPA&#39;ye açık bir şekilde rıza vermeyi kabul ediyorum.
+
+
+
+
+
+
+
