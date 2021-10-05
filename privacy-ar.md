@@ -1,74 +1,72 @@
-# UNFPA GBV Mobile Application Terms of Use and Privacy Notice
+# بيان الخصوصية وشروط مستخدم تطبيق الهاتف TCDŞ (العنف الجندري / القائم على نوع الجنس المجتمعي) التابع لـ UNFPA  (صندوق الأمم المتحدة للسكان)
 
-**Privacy Notice**
-
-The United Nations Population Fund (UNFPA) is committed to protecting and respecting your privacy. This Privacy Notice describes UNFPA&#39;s policy concerning the gathering and sharing of users&#39; information through this mobile application (hereinafter together referred to as the &quot;GBV Prevention Application&quot; or &quot;Application&quot;).
-
-This Privacy Notice describes what information is collected, stored, transferred and made available to UNFPA and third parties when you use this Application and how UNFPA uses and stores that information. Any information voluntarily disclosed to UNFPA by users is held with the utmost care and security and will not be used in ways other than as set forth in this Privacy Notice.
-
-1. **Collection and use of personally identifiable information**
-
-Collection: By using this Application, general usage data from standard server logs, such as Internet protocol (&quot;IP&quot;) addresses, navigation through the Application, the software used and the time spent, along with other similar information, will be stored. Providing personal information is your choice. When you undertake certain actions on our Application, such as creating menstrual cycle calendars, you knowingly and voluntarily provide us with personal information about you, such as your gender, birth date, health data and other information. While these data are not personally identifiable information, UNFPA treats them at personally identifiable information standards. Your location is temporarily collected to the servers for the emergency location sharing, when you willingly agree to share your location with your chosen emergency contacts. You also knowingly provide certain information about a third party (e.g. phone number of an emergency contact) with that party&#39;s knowledge and consent.
-
-Storage: This information is collected only with your knowledge and permission and is kept in various UNFPA databases. Your information will not be retained for longer than necessary for purposes set out in this Notice. The emergency phone numbers and emergency SMS texts are kept in phones internal storage and are not sent to UNFPA servers. The SMSs are being sent by the phone&#39;s native interface.
-
-Use: UNFPA may use the information you provide in the following ways, among others:
-
-- to analyze trends and usage of the GBV Prevention Application and to improve the usefulness of the application. This is not connected with any personal information.
-- to understand user&#39;s needs/issues and to reach the user for further steps to be taken to support them by checking frequency of usage of sections.
--
-
-Transfer: UNFPA may transfer the information you provide to third parties in the following ways, among others:
-
-- to the developers of the Application and relevant service providers in the country and abroad Google servers controlled by only authorized UNFPA personnel, within the limits of determined purpose, to better support you and the features and services provided to you. Similarly, the same data can be processed to create reports about the Application usage, who benefit from the Application and to resolve the complaints regarding the Application;
-
-- as required by law.
-
-B **.**  **Security**
-
-We do not sell or share any personally identifiable information volunteered on the Application to any third party without prior consent. We do, however, share some user non-identifiable statistical information with our partners so that the whole UNFPA family can respond to your needs. Any information provided to UNFPA by users of the GBV Prevention Application is held with the utmost care and security, and will not be used in ways other than as set forth in this Privacy Notice, or in ways to which you have explicitly consented. UNFPA employs a range of techniques and security measures to protect the information maintained on our system from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
-
-However, UNFPA assumes no responsibility for the security of information.
-
-C **.**  **Notification of change of Privacy Notice**
-
-If UNFPA decides to change this Privacy Notice, UNFPA will notify you of those changes so that you are always aware of what information we collect and how we use it.
-
-**Terms of Use**
-
-**A. No Warranty**
-
-You expressly acknowledge and agree that use of the Application is at your sole risk. The Application and any services performed or provided by the Application are provided &quot;as is&quot; and &quot;as available,&quot; without warranty of any kind, and UNFPA hereby disclaims all warranties and representations with respect to the Application and any services, either express, implied, or statutory, including, but not limited to, any implied warranties and/or conditions of merchantability, of satisfactory quality, of fitness for a particular purpose, of accuracy, of quiet enjoyment, and of non-infringement of third party rights.
-
-**B. Limitation of Liability**
-
-In no event shall UNFPA be liable for personal injury or any incidental, special, indirect, or consequential damages whatsoever, including, without limitation, damages for loss of profits, loss of data, business interruption, or any other commercial damages or losses, arising out of or related to your use of or inability to use the Application, however caused, regardless of the theory of liability (contract, tort, or otherwise) and even if UNFPA has been advised of the possibility of such damages.
-
-**C. Links to other sites and uploading Content to Social Networks - Disclaimer**
-
-The Application may contain links, and may enable access to UNFPA&#39;s and/or third-party services and websites (collectively and individually, &quot;External Services&quot;). You agree to use the External Services at your sole risk. UNFPA is not responsible for examining or evaluating the content or accuracy of any third-party External Services, and shall not be liable for any such third-party External Services. Data displayed by this Application or External Service, including but not limited to financial, medical and location information, is for general informational purposes only and is not guaranteed by UNFPA or its agents. You will not use the External Services in any manner that is inconsistent with these Terms of Use or that infringes the intellectual property rights of UNFPA or any third party. You agree not to use the External Services to harass, abuse, stalk, threaten or defame any person or entity, and that UNFPA is not responsible for any such use. External Services may not be available in all languages or in your home country, and may not be appropriate or available for use in any particular location. To the extent you choose to use such External Services, you are solely responsible for compliance with any applicable laws. UNFPA reserves the right to change, suspend, remove, disable or impose access restrictions or limits on any External Services at any time without notice or liability to you. UNFPA assumes no responsibility for the privacy practices, terms of use or the content of External Services.
-
-If you upload content from the Application and to any social network and then tag UNFPA, your submission will be subject to that website&#39;s terms of use and privacy policy. UNFPA assumes no responsibility for the terms of use, privacy practices or the content of such social networks and websites.
-
-**D.**  **Privileges and Immunities**
-
-Nothing in this Privacy Notice or in these Terms of Use shall constitute or be considered to be a limitation upon or a waiver of the privileges and immunities of the United Nations, including its subsidiary organs, which are specifically reserved,
-
-For any questions regarding the Privacy Notice or the Terms of Use, you may contact amber@unfpa.org.
-
-**Explicit Consent Declaration**
-
-I have been provided with information and the relevant Privacy Notice about how data will be stored, processed and transferred by the Application.
-
-I have had the opportunity to consider the information, ask questions and had these answered satisfactorily.
-
-I understand my use of the Application is voluntary and I am free to cancel my use of the Application at any time. At the time of cancellation, I have the right to request UNFPA to destroy my personal data.
-
-I agree that my personal data can be transferred to relevant service providers in the country and abroad, within the limits of determined purpose, by retaining them for the maximum period required, to better support me.
-
-I hereby give my explicit consent to UNFPA to process my personal data as described in the Privacy Notice.
+إن صندوق الأمم المتحدة للسكان (UNFPA) هو مؤسسة مرتبطة بقاعدة حماية خصوصياتكم الشخصية وإحترامها. ومن خلال تطبيق الهاتف هذا (منع العنف القائم على نوع الجنس المجتمعي وسوف نعطيه لاحقا إسم العنف الجندري، مختصراً TCDŞ أو "التطبيق" ؛ يتم تحديد سياسة جمع ومشاركة معلومات المستخدمين. 
+يصف بيان الخصوصية هذا أيضا المعلومات التي يتم جمعها وتخزينها ونقلها وإتاحتها لصندوق الأمم المتحدة للسكان والأطراف الثالثة عند إستخدام التطبيق، وكيف يستخدم صندوق الأمم المتحدة للسكان هذه المعلومات ويخزنها. يتم تخزين المعلومات التي يُدلي بها ويُفصح عنها المستخدمون لصندوق الأمم المتحدة للسكان؛ بأقصى قدر من العناية والأمان ولا يتم إستخدام هذه المعلومات لأي غرض آخر غير تلك المذكورة في بيان الخصوصية هذا. 
 
 
+**جمع واستخدام المعلومات الشخصية التعريفية .A**
+
+الجمع: عندما تستخدمون هذا التطبيق، سيتم تخزين بيانات الإستخدام العامة التي تم الحصول عليها من سجلات الخادم القياسية مثل عناوين ( "IP" )، والتنقل في جميع أنحاء التطبيق والبرنامج المستخدم، والوقت المُنقضي والمعلومات المماثلة. ولكم الحرية المطلقة في أن تقدموا معلوماتكم الشخصية أم لا. عندما تقوموا بإجراءات معينة في تطبيقنا كإنشاء تقويم للدورة الشهرية على سبيل المثال فإنك تكون قد شاركت معلوماتك الشخصي معنا عن قصد وعن طيب خاطر في أمور مثل نوع الجنس، تاريخ الميلاد والمعلومات الصحية وغيرها من المعلومات. إن هذه المُعطيات وإن لم تكن مُعطيات تعريفية إلا أن UNFPA يقوم بتقييمها على أنها معايير وصفية شخصية. عندما تكتبون إسم شخص للإتصال به في حالات الطوارىء وعند مشاركتكم لموقعكم بمحض إرادتكم ما فإنه يتم نقل موقعكم الذي شاركتموه إلى الخوادم. أيضا فإن مشاركتم لمعلومات خاصة بالطرف الثالث يكون هو قد وافق على مشاركتها (مثل أن تكتب رقم هاتفه للإتصال به في حالات الطوارىء) فإنك تكون قد شاركت معلومات خاصة به.
+
+الحفظ: هذه المعلومات ، هي معلومات يتم جمعها فقط بمعرفتك وموافقنك، ومن ثم يتم تخزينها في قواعد بيانات صندوق الأمم المتحدة للسكان المختلفة. لن يتم تخزين معلوماتك لفترة أطول من الفترة اللازمة للأغراض المنصوص عليها في هذا البيان. أرقام هواتف الإثصال في حالات الطوارىء والرسائل النصية للطوارىء يتم تخزينها فقط في مساحة التخزين الخاصة بالهواتف ولا يتم إعادة توجيهها إلى خوادم بيانات صندوق الأمم المتحدة للسكان (UNFPA)، يتم إرسال الرسائل النصية عبر واجهة الهاتف الخاصة.
+
+الإستخدام: قد يستفيد صندوق الأمم المتحدة للسكان  (UNFPA) من المعلومات التي تُقدمها بالإضافة إلى ما هو موضح أدناه كما يلي:
+
+- تحليل معلومات التغيير والأستخدام فيما يتعلق بتطبيق منع العنف القائم على نوع الجنس المجتمعي (TCDŞ) وجعل التطبيق أكثر فائدة. وهذا الأمر ليس له علاقة بالمعلومات الشخصية.
+- الوصول إلى المستخدمين وفهم مشاكلهم/ إحتياجاتهم من خلال متابعة أقسام التطبيق وكثافة إستخدامها، ومن ثم إتخاذ إجراءات أخرى لغرض تقديم الدعم للمستخدم.
+
+النقل (نقل المعلومات): يمكن لصندوق الأمم المتحدة للسكان (UNFPA) نقل المعلومات التي تُقدمها بالإضافة إلى ما هو موضح أدناه إلى أطراف ثالثة كما يلي:
+
+إننا لكي نقدم لكم خدمة أفضل ومن أجل أن ننتقل معكم إلى مراحل متقدمة من الخدمات التي نقدمها لكم  بواسطة مميزات التطبيق، بما في ذلك الأغراض المحددة مسبقا؛ فإن معلوماتك الشخصية لن يتم نقلها أو تناقلها سوى عبر مطوري التطبيق ومقدمي الخدمات في داخل الدولة وخارجها ومحركات جوجل التي لا يمكن الإشراف عليها سوى من قبل موظفي صندوق الأمم المتحدة للسكان (UNFPA)  المعتمدين. وبالمثل؛ يمكن معالجة المعلومات المذكورة من أجل إعداد تقارير حول إستخدام التطبيق، تحديد مستخدمي التطبيق ولغرض حل الشكاوى المتعلقة بالتطبيق. 
+
+**الأمان .B**
+
+لا يتم بيع أو مشاركة أية معلومات تعريف شخصية تكون قد أدليت بها بمحض إرادتك إلى أو مع أطراف ثالثة دون الحصول على موافقتك بشكل مسبق. ومع ذلك، يمكننا مشاركة معلومات المستخدم الإحصائية غير الشخصية مع أصحاب المصلحة لدينا وذلك في سبيل أن تتمكن أسرة صندوق الأمم المتحدة للسكان (UNFPA) بأكملها من الإستجابة لإحتياجاتكم وتلبيتها. المعلومات التي قام مستخدموا تطبيق منع العنف القائم على نوع الجنس المجتمعي (TCDŞ) بمشاركتها مع صندوق الأمم المتحدة للسكان (UNFPA)، يتم تخزينها والمحافظة عليها باقصى قدر من العناية والأمان ولا يتم إستخدامها لأي غرض آخر غير تلك المذكورة في بيان الخصوصية هذا، أو أن يتم إستخدامها بأية وسيلة أخرى ما لم تكون أنت قد وافقت على ذلك بشكل واضح وصريح. يستخدم صندوق الأمم المتحدة للسكان (UNFPA) عددا من التقنيات والتدابير الأمنية اللازمة من أجل حماية المعلومات الموجودة في نظامنا من الكشف، الضياع، التغيير، الإتلاف أو لحمايتها من الإستخدام غير المصرح به.
+
+ومع ذلك فإن صندوق الأمم المتحدة للسكان (UNFPA) لا يتحمل المسئولية عن أمن المعلومات. 
+
+**إشعار التغيير في بيان الخصوصية .C**
+
+في حال أن يتخذ صندوق الأمم المتحدة للسكان (UNFPA) قرارا بشأن إجراء تغييرات على بيان الخصوصية هذا، سيقوم صندوق الأمم المتحدة للسكان (UNFPA) بإعلامك بهذه التغييرات حتى تكون دوما على دراية بالمعلومات التي نجمعها عنك وعن طريقة إستفادتنا من هذه المعلومات.
+
+
+**شروط الإستخدام**
+
+**عدم الضمان .A**
+
+إنك عندما تبدأ بإستخدام التطبيق تكون قد أبديت وافقت بشكل صريح على تحمل مخاطر هذا التطبيق. يتم تقديم هذا التطبيق والخدمات التي يوفرها "كما هي" و "طالما أنه يمكن الوصول إليها " بدون ضمانات من أي نوع، ويتم
+
+توفيرها دون ضمانت خاصة بأغراض تجارية  أوجودة مُرضية أوملائمة لغرض معين، وعليه فإن صندوق الأمم المتحدة للسكان (UNFPA) لا يتحمل أية مسئولية صريحة أو ضمنية أو معلن عنها رسميا فيما يتعلق فيما يتعلق بهذا التطبيق وخدماته، بما في ذلك على سبيل المثال لا الحصر الضمانات الضمنية و/ أو شروط  الإستخدام غير التداخلي وعدم التعدي على حقوق الأطراف الثالثة.
+
+**حدود المسئولية .B**
+
+بغض النظر عن السبب (في العقد، الضرر أو غير ذلك)، بما في ذلك على سبيل المثال لا الحصر خسارة الأرباح، فقدان البيانات، إنقطاع الأعمال، الأضرار والخسائر التجارية أو إصابات جسدية أو عرضية ناجمة عن إستخدامك أو عن عدم مقدرتك على إستخدام التطبيق مهما كانت الأسباب؛ فغنه لا يمكن تحميل صندوق الأمم المتحدة للسكان (UNFPA) المسئولية عن أية أضرار ناتجة أو ظرفية أو تبعية، حتى لو تم إبلاغ صندوق الأمم المتحدة للسكان (UNFPA) بإمكانية حدوث مثل هذه الأضرار أو الخسائر.
+
+**إخلاء المسئولية عن الروابط الخاصة بالمواقع الأخرى وتحميل المحتوى على شبكات التواصل الإجتماعي .C**
+
+قد يحتوي التطبيق على روابط وقد توفر هذه الروابط إمكانية الوصول إلى خدمات ومواقع الويب الخاصة بـ صندوق الأمم المتحدة للسكان (UNFPA) و/ أو الأطراف الثالثة (يُشار إليها بشكل منفصل وجماعي تحت إسم "الخدمات الخارجية"). تكون الإستفادة من الخدمات الخارجية على مسئوليتك الخاصة بشكل تام. لا يمكن تحميل صندوق الأمم المتحدة للسكان (UNFPA) المسئولية عن محتوى أو دقة الخدمات الخارجية لأطراف ثالثة. البيانات المعروضة في هذا التطبيق أو الخدمات الخارجية، بما في ذلك على سبيل المثال لا الحصر البيانات المالية والطبية والبيانات الخاصة بالموقع أو المكان، هي لأغرااض المعلومات العامة وليست تحت ضمان صندوق الأمم المتحدة للسكان (UNFPA) أو وكالاته. لا يجوز إستخدام الخدمات الخارجية فيما قد ينتهك شروط الإستخدام هذه، أو ما ينتهك حقوق صندوق الأمم المتحدة للسكان (UNFPA) أو الحقوق الملكية الفكرية لأي طرف ثالث. أنت تكون موافقا على أنه لا يحق لك إستخدام الخدمات الخارجية في مضايقة أي شخص أو مؤسسة أو إساءة إستخدامه أو ملاحقته أو تهديده أو التشهير به، كما أنه لا يمكن تحميل صندوق الأمم المتحدة للسكان (UNFPA) المسئولية في حال حدوث مثل هذا الموقف. قد لا تتوفر الخدمات الخارجية بجميع اللغات أو في بلدك وقد لا تكون متاحة في مواقع معينة أو قد لا تكون متاحة على الإطلاق. مسئولية الإمتثال لجميع القوانين المعمول بها فيما يتعلق بإستخدام الخدمات الخارجية تقع على عاتقك أنت. يحتفظ صندوق الأمم المتحدة للسكان (UNFPA) بحقه في إجراء تغييرات أو تعليق أو إزالة أو حظر أو تقييد الوصول إلى الخدمات الخارجية في أي وقت دون الحاجة إلى إخطارك بذلك. لا يمكن تحميل صندوق الأمم المتحدة للسكان (UNFPA) المسئولية عن ممارسات أو شروط إستخدام أو محتوى الخدمات الخارجية. 
+
+عندما تقوم بتحميل محتوى إلى التطبيق أو أي شبكة تواصل إجتماعي وتضع علامة على صندوق الأمم المتحدة للسكان (UNFPA) ، فإن التحميل الخاص بك سيكون خاضعا لشروط إستخدام الموقع وسياسة الخصوصية الخاصة به.
+
+لا يمكن تحميل صندوق الأمم المتحدة للسكان (UNFPA) المسئولية عن ممارسات الخصوصية أو شروط الإستخدام أو محتوى هذه الشبكات الإجتماعية والمواقع الإلكترونية.
+
+**الإمتيازات والإعفاءات .D**
+
+لا يوجد في بيان الخصوصية هذا أو شروط الإستخدام ما يمكن تفسيره على أنه تقييد أو تنازل عن الإمتيازات والإعفاءات المحجوزة على وجه التحديد للأمم المتحدة، بما في ذلك الشركات التابعة لها.
+
+يمكنكم إرسال أسئلتكم أو إستفساراتكم حول بيان الخصوصية أو شروط الإستخدام إلى  amber@unfpa.org.
+
+**البيان الصريح بالموافقة**
+
+لقد تم إبلاغي بكيفية تخزين بياناتي ومعالجتها ونقلها بواسطة التطبيق وتم تقديم بيان الخصوصية. 
+
+لقد أتيحت لي الفرصة لتقييم المعلومات المعنية وطرح الأسئلة حولها، وتم التأكد من أن الإجابة عليها كانت مُرضية.
+
+أفهم أنني أستخدم التطبيق بمحض إرادتي وأن بإمكاني التوقف عن إستخدامه في أي وقت. بمجرد أن أتوقف عن إستخدام التطبيق يحق لي أن أطلب من صندوق الأمم المتحدة للسكان (UNFPA) تدمير جميع بيانات الموجودة لديهم.
+
+أوافق على إمكانية نقل بياناتي الشخصية إلى مزودي الخدمة المعنيين داخل الدولة وخارجها لأغراض محددة مسبقا، من خلال الإحتفاظ بها لأقصى فترة ضرورية لتقديم خدمة أفضل لي.
+
+أوافق على إعطاء موافقة صريحة لـ صندوق الأمم المتحدة للسكان (UNFPA) لمعالجة بياناتي الشخصية على النحو المنصوص عليه في بيان الخصوصية.
 
 
 -
