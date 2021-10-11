@@ -6,7 +6,7 @@ The United Nations Population Fund (UNFPA) is committed to protecting and respec
 
 This Privacy Notice describes what information is collected, stored, transferred and made available to UNFPA and third parties when you use this Application and how UNFPA uses and stores that information. Any information voluntarily disclosed to UNFPA by users is held with the utmost care and security and will not be used in ways other than as set forth in this Privacy Notice.
 
-1. **Collection and use of personally identifiable information**
+**A. Collection and use of personally identifiable information**
 
 Collection: By using this Application, general usage data from standard server logs, such as Internet protocol (&quot;IP&quot;) addresses, navigation through the Application, the software used and the time spent, along with other similar information, will be stored. Providing personal information is your choice. When you undertake certain actions on our Application, such as creating menstrual cycle calendars, you knowingly and voluntarily provide us with personal information about you, such as your gender, birth date, health data and other information. While these data are not personally identifiable information, UNFPA treats them at personally identifiable information standards. Your location is temporarily collected to the servers for the emergency location sharing, when you willingly agree to share your location with your chosen emergency contacts. You also knowingly provide certain information about a third party (e.g. phone number of an emergency contact) with that party&#39;s knowledge and consent.
 
@@ -24,13 +24,13 @@ Transfer: UNFPA may transfer the information you provide to third parties in the
 
 - as required by law.
 
-B **.**  **Security**
+**B. Security**
 
 We do not sell or share any personally identifiable information volunteered on the Application to any third party without prior consent. We do, however, share some user non-identifiable statistical information with our partners so that the whole UNFPA family can respond to your needs. Any information provided to UNFPA by users of the GBV Prevention Application is held with the utmost care and security, and will not be used in ways other than as set forth in this Privacy Notice, or in ways to which you have explicitly consented. UNFPA employs a range of techniques and security measures to protect the information maintained on our system from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
 However, UNFPA assumes no responsibility for the security of information.
 
-C **.**  **Notification of change of Privacy Notice**
+**C. Notification of change of Privacy Notice**
 
 If UNFPA decides to change this Privacy Notice, UNFPA will notify you of those changes so that you are always aware of what information we collect and how we use it.
 
@@ -50,7 +50,7 @@ The Application may contain links, and may enable access to UNFPA&#39;s and/or t
 
 If you upload content from the Application and to any social network and then tag UNFPA, your submission will be subject to that website&#39;s terms of use and privacy policy. UNFPA assumes no responsibility for the terms of use, privacy practices or the content of such social networks and websites.
 
-**D.**  **Privileges and Immunities**
+**D. Privileges and Immunities**
 
 Nothing in this Privacy Notice or in these Terms of Use shall constitute or be considered to be a limitation upon or a waiver of the privileges and immunities of the United Nations, including its subsidiary organs, which are specifically reserved,
 
@@ -67,8 +67,5 @@ I understand my use of the Application is voluntary and I am free to cancel my u
 I agree that my personal data can be transferred to relevant service providers in the country and abroad, within the limits of determined purpose, by retaining them for the maximum period required, to better support me.
 
 I hereby give my explicit consent to UNFPA to process my personal data as described in the Privacy Notice.
-
-
-
 
 -

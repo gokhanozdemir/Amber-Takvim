@@ -6,7 +6,7 @@ Birleşmiş Milletler Nüfus Fonu (UNFPA), kişisel mahremiyetinizi koruma ve bu
 
 İşbu Gizlilik Bildirimi&#39;nde, ayrıca söz konusu Uygulama&#39;yı kullandığınızda hangi bilgilerin toplandığı, depolandığı, aktarıldığı ve UNFPA ile üçüncü tarafların erişimine sunulduğu ve UNFPA&#39;in bu bilgilerden nasıl yararlandığı ve bunları nasıl depoladığı tanımlanmaktadır. Kullanıcıların gönüllü olarak UNFPA&#39;ye açıkladığı bilgiler, son derece özenli ve güvenlikli şekilde saklanmakta olup işbu Gizlilik Bildirimi&#39;nde bahsi geçenler dışında hiçbir amaçla kullanılmaz.
 
-1. **Kişiyi tanımlayıcı bilgilerin toplanması ve kullanılması**
+**A. Kişiyi tanımlayıcı bilgilerin toplanması ve kullanılması**
 
 **Toplama:** Bu Uygulama&#39;yı kullandığınızda internet protokol (&quot;IP&quot;) adresleri, Uygulama genelinde gezinti, kullanılan yazılım, harcanan zaman ve benzeri bilgiler gibi standart sunucu kayıtlarından elde edilen genel kullanım verileri saklanacaktır. Kişisel bilgilerinizi vermek sizin tercihinizdir. Uygulama&#39;mızda adet döngüsü takvimi oluşturma gibi belli işlemler yaptığınızda toplumsal cinsiyetiniz, doğum tarihiniz, sağlık bilgileriniz ve sair bilgiler gibi konularda kişisel bilgilerinizi bilerek ve isteyerek bizimle paylaşmış olursunuz. Bu veriler, kişiyi tanımlayıcı verileri olmasa da UNFPA, bunları kişiye tanımlayıcı veri standartları doğrultusunda değerlendirmektedir. Acil durumda aranmasını istemiş olduğunuz kişiler ile kendi isteğinizle paylaştığınızda konumunuz, acil durumda yer paylaşımında bulunulması için geçici olarak sunuculara iletilmektedir. Ayrıca, üçüncü bir taraf ile ilgili olarak tarafın bilgisi ve rızası dahilinde belli bilgileri de (örn; acil durumda aranacak kişinin telefon numarası) sağlamış olursunuz.
 
@@ -21,13 +21,13 @@ Birleşmiş Milletler Nüfus Fonu (UNFPA), kişisel mahremiyetinizi koruma ve bu
 
 Sizlere daha iyi hizmet vermek ve uygulamanın özellikleri ile size sunduğumuz hizmetleri daha ileri bir noktaya taşımak üzere önceden belirlenmiş amaçlar dahilinde Uygulama&#39;yı geliştiren taraflara ve ülke içinde ve dışında bulunan hizmet sağlayıcılara ve sadece yetkili UNFPA personelinin denetleyebileceği Google sürücülerine kişisel bilgileriniz aktarılabilir. Benzer şekilde Uygulama kullanımı ile ilgili rapor hazırlamak, Uygulama&#39;dan kimlerin yararlandığını tespit etmek ve Uygulama ile ilgili şikayetleri gidermek amacıyla söz konusu bilgiler işlenebilir.
 
-B **. Güvenlik**
+**B. Güvenlik**
 
 Uygulama&#39;da kendi isteğinizle vermiş olduğunuz kişiyi tanımlayıcı nitelikte hiçbir bilgi, önceden izniniz olmadan üçüncü taraflara satılmaz veya üçüncü taraflarla paylaşılmaz. Ancak tüm UNFPA ailesinin ihtiyaçlarınıza karşılık verebilmesi için kişiyi tanımlayıcı özelliği olmayan istatistiksel kullanıcı bilgilerini paydaşlarımızla paylaşabilmekteyiz. TCDŞ Önleme Uygulaması kullanıcılarının kendi istekleriyle UNFPA&#39;ye sağlamış olduğu bilgiler, son derece özenli ve güvenlikli şekilde saklanmakta olup işbu Gizlilik Bildirimi&#39;nde bahsi geçenler dışında hiçbir amaçla veya açık bir şekilde rıza göstermediğiniz şekillerde kullanılmaz. UNFPA, sistemimizde tutulan bilgilerin kayıp, kötüye kullanma, izinsiz erişim veya açıklama, değiştirme veya yok edilme ihtimaline karşı korunması için birtakım tekniklerden ve güvenlik önlemlerinden yararlanmaktadır.
 
 Ancak UNFPA, bilgilerin güvenliği konusunda sorumluluk üstlenmemektedir.
 
-C **. Gizlilik Bildirimi&#39;nde değişiklik bildirimi**
+**C. Gizlilik Bildirimi&#39;nde değişiklik bildirimi**
 
 UNFPA tarafından işbu Gizlilik Bildirimi&#39;nde değişiklik yapılmasına karar verilmesi durumunda, hangi bilgileri topladığımız ve bunlardan nasıl yararlandığımız konusunda her daim bilgi sahibi olmanız için söz konusu değişiklikler UNFPA tarafından sizlere bildirilir.
 
@@ -47,7 +47,7 @@ Uygulama&#39;da linkler bulunabilir ve bu linkler, UNFPA&#39;nin ve/veya üçün
 
 Uygulama&#39;ya ve herhangi bir sosyal ağa içerik yükleyip UNFPA&#39;yi etiketlediğinizde yapmış olduğunuz yükleme işlemi, internet sitesinin kullanım koşullarına ve gizlilik politikasına tabi olacaktır. Bu tür sosyal ağların ve internet sitelerinin kullanım koşulları, gizlilik uygulamaları veya içeriği konusunda UNFPA sorumlu tutulamaz.
 
-**D.**  **İmtiyazlar ve Muafiyetler**
+**D. İmtiyazlar ve Muafiyetler**
 
 İşbu Gizlilik Bildirim veya Kullanım Koşulları&#39;nda bahsi geçen hiçbir ifade, bağlı kuruluşları dahil olmak üzere Birleşmiş Milletler&#39;in özellikle saklı tutulan imtiyaz ve muafiyetlerine yönelik bir kısıtlama getirildiği veya bunlardan feragat edildiği şeklinde yorumlanamaz veya değerlendirilemez.
 
@@ -64,11 +64,5 @@ Uygulama&#39;yı kendi isteğim doğrultusunda kullandığımı ve Uygulama&#39;
 Kişisel verilerimin, tarafıma daha iyi hizmet verilmesi adına gereken azami süreyle saklanarak önceden belirlenmiş amaçlar doğrultusunda ülke içinde ve dışında bulunan ilgili hizmet sağlayıcılara aktarılabileceğini kabul ediyorum.
 
 Kişisel verilerimin Gizlilik Bildirimi&#39;nde belirtildiği şekilde işlenmesi konusunda UNFPA&#39;ye açık bir şekilde rıza vermeyi kabul ediyorum.
-
-
-
-
-
-
 
 -
