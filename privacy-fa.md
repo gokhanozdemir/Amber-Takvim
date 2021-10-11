@@ -1,74 +1,70 @@
-# UNFPA GBV Mobile Application Terms of Use and Privacy Notice
+# شرایط استفاده از اپلکیشن تلفنی مقابله با خشونت مبتنی بر جنسیت اجتماعیUNFPA  و بیانیه حفظ حریم خصوصی
 
-**Privacy Notice**
+**بیانیه حفظ حریم خصوصی**
 
-The United Nations Population Fund (UNFPA) is committed to protecting and respecting your privacy. This Privacy Notice describes UNFPA&#39;s policy concerning the gathering and sharing of users&#39; information through this mobile application (hereinafter together referred to as the &quot;GBV Prevention Application&quot; or &quot;Application&quot;).
+صندوق جمعیت ملل متحد (UNFPA) نهادی است که متعهد به حفظ حریم شخصی شما و احترام به آن است. در این بیانیه حفظ حریم خصوصی، سیاست UNFPA در مورد جمع‌آوری و به اشتراک‌گذاری اطلاعات کاربران از طریق این اپلیکیشن تلفنی (که از این پس "اپلیکیشن پیشگیری از خشونت مبتنی بر جنسیت اجتماعی" یا "اپلیکیشن" نامیده خواهد شد) تعریف شده است.
 
-This Privacy Notice describes what information is collected, stored, transferred and made available to UNFPA and third parties when you use this Application and how UNFPA uses and stores that information. Any information voluntarily disclosed to UNFPA by users is held with the utmost care and security and will not be used in ways other than as set forth in this Privacy Notice.
+این بیانیه حفظ حریم خصوصی همچنین توضیح می‌دهد که هنگام استفاده از این اپلیکیشن چه اطلاعاتی جمع‌آوری، ذخیره و منتقل می‌شوند و در اختیار UNFPA و اشخاص ثالث قرار می‌گیرند و UNFPA چگونه این اطلاعات را ذخیره کرده و از آنها استفاده می‌کند. اطلاعاتی که کاربران به شکل داوطلبانه در اختیار UNFPA قرار می‌دهند با نهایت دقت و امنیت ذخیره می‌شود و برای هیچ هدفی غیر از موارد ذکر شده در این بیانیه حفظ حریم خصوصی استفاده نمی‌شود.
 
-1. **Collection and use of personally identifiable information**
+**الف) جمع آوری اطلاعات شخصی فرد و استفاده از آنها**
 
-Collection: By using this Application, general usage data from standard server logs, such as Internet protocol (&quot;IP&quot;) addresses, navigation through the Application, the software used and the time spent, along with other similar information, will be stored. Providing personal information is your choice. When you undertake certain actions on our Application, such as creating menstrual cycle calendars, you knowingly and voluntarily provide us with personal information about you, such as your gender, birth date, health data and other information. While these data are not personally identifiable information, UNFPA treats them at personally identifiable information standards. Your location is temporarily collected to the servers for the emergency location sharing, when you willingly agree to share your location with your chosen emergency contacts. You also knowingly provide certain information about a third party (e.g. phone number of an emergency contact) with that party&#39;s knowledge and consent.
+**جمع آوری اطلاعات:** هنگام استفاده از این اپلیکیشن، داده‌های کلی به دست آمده از موارد استاندارد ثبت شده توسط سرورها مانند آدرس پروتکل اینترنت (IP)، مدت زمان گذرانده شده در کل اپلیکیشن، نرم افزار مورد استفاده، زمان صرف شده و اطلاعات مشابه ذخیره می‌شود. اینکه اطلاعات شخصی خود را ارائه دهید یا نه، تصمیم با شماست. هنگامی که عمل خاصی مانند ایجاد تقویم چرخه قاعدگی را در این اپلیکیشن انجام می‌دهید، اطلاعات شخصی خود در موضوعاتی مانند جنسیت، تاریخ تولد، سلامتی و سایر اطلاعات مشابه را آگاهانه و با رضایت خود با ما در میان می‌گذارید. اگرچه این داده‌ها، اطلاعات شناسایی شخصی نیستند، اما UNFPA این داده‌ها را مطابق با استانداردهای اطلاعات شناسایی شخصی ارزیابی می‌کند. موقعیت مکانی که شما آن را آگاهانه و مطابق میل خود به اشتراک می‌گذارید، به منظور به اشتراک گذاری با افراد مشخص شده برای تماس در مواقع ضروری، به شکل موقتی به سرورها منتقل می‌شود. توجه داشته باشید که هنگام تکمیل داده‌ها، اطلاعات شخصی مربوط به شخص ثالث (مانند شماره تلفن تماس در مواقع اضطراری) را نیز با اطلاع و رضایت طرف ثالث به اشتراک می‌گذارید.
 
-Storage: This information is collected only with your knowledge and permission and is kept in various UNFPA databases. Your information will not be retained for longer than necessary for purposes set out in this Notice. The emergency phone numbers and emergency SMS texts are kept in phones internal storage and are not sent to UNFPA servers. The SMSs are being sent by the phone&#39;s native interface.
+**نگهداری:** این اطلاعات تنها با آگاهی و رضایت شما جمع‌آوری و در پایگاه‌های مختلف داده UNFPA ذخیره می‌شود. اطلاعات شما برای مقاصد مندرج در این بیانیه تنها به میزان لازم ذخیره می‌شود. شماره تلفن‌های تعیین شده از سوی شما برای تماس در مواقع اضطراری و نیز متن پیام‌های اضطراری در محل ذخیره خود تلفن ذخیره می‌شود و به سرورهای UNFPA ارسال نمی‌شوند. پیام‌های کئتاه اضطراری از طریق رابط کاربری تلفن ارسال می‌شوند.
 
-Use: UNFPA may use the information you provide in the following ways, among others:
+**نحوه استفاده:** UNFPA می‌تواند از اطلاعاتی که ارائه می‌دهید به شکل زیر استفاده کند:
 
-- to analyze trends and usage of the GBV Prevention Application and to improve the usefulness of the application. This is not connected with any personal information.
-- to understand user&#39;s needs/issues and to reach the user for further steps to be taken to support them by checking frequency of usage of sections.
--
+- تجزیه و تحلیل اطلاعات مربوط به تغییر و استفاده از اپلیکیشن پیشگیری از خشونت مبتنی بر جنسیت اجتماعیی و هر چه بهتر کردن این اپلیکیشن. این موضوع به اطلاعات شخصی مربوط نمی‌شود.
 
-Transfer: UNFPA may transfer the information you provide to third parties in the following ways, among others:
+- دسترسی به کاربران به منظور درک نیازها یا مشکلات آنها و انجام اقدامات دیگر برای کمک به آنها با کنترل تعداد دفعات استفاده از بخشهای مختلف اپلیکیشن.
 
-- to the developers of the Application and relevant service providers in the country and abroad Google servers controlled by only authorized UNFPA personnel, within the limits of determined purpose, to better support you and the features and services provided to you. Similarly, the same data can be processed to create reports about the Application usage, who benefit from the Application and to resolve the complaints regarding the Application;
+**انتقال:** UNFPA می‌تواند اطلاعات ارائه شده از سوی شما از جمله موارد زیر را به روشهای زیر به اشخاص ثالث منتقل کند:
 
-- as required by law.
+به منظور ارائه خدمات بهتر به شما و افزایش کیفیت خدمات ارائه شده توسط این اپلیکیشن، می‌توانیم اطلاعات شخصی شما را با طرفینی که اپلیکیشن را توسعه می‌دهند، به ارائه دهندگان خدمات در داخل و خارج از کشور و آن دسته از سرورهای گوگل که فقط توسط پرسنل مجاز UNFPA کنترل می‌شوند، در چارچوب اهداف از پیش تعیین شده، در میان بگذاریم. همچنین ممکن است به منظور تهیه گزارشات مربوط به استفاده از اپلیکیشن، شناسایی افرادی که از اپلیکیشن استفاده می‌کنند و رفع شکایات مربوط به اپلیکیشن، اطلاعات مذکور مورد استفاده قرار گیرند.
 
-B **.**  **Security**
+**ب. امنیت**
 
-We do not sell or share any personally identifiable information volunteered on the Application to any third party without prior consent. We do, however, share some user non-identifiable statistical information with our partners so that the whole UNFPA family can respond to your needs. Any information provided to UNFPA by users of the GBV Prevention Application is held with the utmost care and security, and will not be used in ways other than as set forth in this Privacy Notice, or in ways to which you have explicitly consented. UNFPA employs a range of techniques and security measures to protect the information maintained on our system from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+اطلاعات شخصی که داوطلبانه در اختیار اپلیکیشن قرار می‌دهید بدون رضایت قبلی شما با اشخاص ثالث به اشتراک گذاشته نمی‌شود یا به آنها فروخته نمی‌شود. اما برای  اینکه کل خانواده UNFPA بتوانند پاسخگویی هر چه بهتر نیازهای شما باشند، می‌توانیم اطلاعات آماری غیرشخصی کاربران را با شرکای پروژه به اشتراک بگذاریم. اطلاعاتی که کاربران اپلیکیشن پیشگیری از خشونت مبتنی بر جنسیت اجتماعی به صورت داوطلبانه در اختیار UNFPA قرار می‌دهند با نهایت دقت و امنیت ذخیره می‌شود و برای هیچ هدفی غیر از موارد ذکر شده در این بیانیه حفظ حریم خصوصی یا با اخذ رضایت صریح و روشن از شما مورد استفاده قرار نمی گیرد. UNFPA برای محافظت از اطلاعات موجود در سیستم و جلوگیری از امحای آنها، سوء استفاده از آنها، دسترسی به آنها یا افشای غیر مجاز آنها، تغییر یا تخریب آنها از برخی روش‌های فنی و تدابیر امنیتی استفاده می‌کند.
 
-However, UNFPA assumes no responsibility for the security of information.
-
-C **.**  **Notification of change of Privacy Notice**
-
-If UNFPA decides to change this Privacy Notice, UNFPA will notify you of those changes so that you are always aware of what information we collect and how we use it.
-
-**Terms of Use**
-
-**A. No Warranty**
-
-You expressly acknowledge and agree that use of the Application is at your sole risk. The Application and any services performed or provided by the Application are provided &quot;as is&quot; and &quot;as available,&quot; without warranty of any kind, and UNFPA hereby disclaims all warranties and representations with respect to the Application and any services, either express, implied, or statutory, including, but not limited to, any implied warranties and/or conditions of merchantability, of satisfactory quality, of fitness for a particular purpose, of accuracy, of quiet enjoyment, and of non-infringement of third party rights.
-
-**B. Limitation of Liability**
-
-In no event shall UNFPA be liable for personal injury or any incidental, special, indirect, or consequential damages whatsoever, including, without limitation, damages for loss of profits, loss of data, business interruption, or any other commercial damages or losses, arising out of or related to your use of or inability to use the Application, however caused, regardless of the theory of liability (contract, tort, or otherwise) and even if UNFPA has been advised of the possibility of such damages.
-
-**C. Links to other sites and uploading Content to Social Networks - Disclaimer**
-
-The Application may contain links, and may enable access to UNFPA&#39;s and/or third-party services and websites (collectively and individually, &quot;External Services&quot;). You agree to use the External Services at your sole risk. UNFPA is not responsible for examining or evaluating the content or accuracy of any third-party External Services, and shall not be liable for any such third-party External Services. Data displayed by this Application or External Service, including but not limited to financial, medical and location information, is for general informational purposes only and is not guaranteed by UNFPA or its agents. You will not use the External Services in any manner that is inconsistent with these Terms of Use or that infringes the intellectual property rights of UNFPA or any third party. You agree not to use the External Services to harass, abuse, stalk, threaten or defame any person or entity, and that UNFPA is not responsible for any such use. External Services may not be available in all languages or in your home country, and may not be appropriate or available for use in any particular location. To the extent you choose to use such External Services, you are solely responsible for compliance with any applicable laws. UNFPA reserves the right to change, suspend, remove, disable or impose access restrictions or limits on any External Services at any time without notice or liability to you. UNFPA assumes no responsibility for the privacy practices, terms of use or the content of External Services.
-
-If you upload content from the Application and to any social network and then tag UNFPA, your submission will be subject to that website&#39;s terms of use and privacy policy. UNFPA assumes no responsibility for the terms of use, privacy practices or the content of such social networks and websites.
-
-**D.**  **Privileges and Immunities**
-
-Nothing in this Privacy Notice or in these Terms of Use shall constitute or be considered to be a limitation upon or a waiver of the privileges and immunities of the United Nations, including its subsidiary organs, which are specifically reserved,
-
-For any questions regarding the Privacy Notice or the Terms of Use, you may contact amber@unfpa.org.
-
-**Explicit Consent Declaration**
-
-I have been provided with information and the relevant Privacy Notice about how data will be stored, processed and transferred by the Application.
-
-I have had the opportunity to consider the information, ask questions and had these answered satisfactorily.
-
-I understand my use of the Application is voluntary and I am free to cancel my use of the Application at any time. At the time of cancellation, I have the right to request UNFPA to destroy my personal data.
-
-I agree that my personal data can be transferred to relevant service providers in the country and abroad, within the limits of determined purpose, by retaining them for the maximum period required, to better support me.
-
-I hereby give my explicit consent to UNFPA to process my personal data as described in the Privacy Notice.
+با این حال، UNFPA در زمینه تامین امنیت اطلاعات هیچ‌گونه مسئولیتی را بر عهده نمی‌گیرد.
 
 
+**اعلان تغییر در بیانیه حفظ حریم خصوصی**
 
+برای مطلع شدن از اینکه چه نوع اطلاعاتی جمع‌آوری کرده و چگونه از آنها استفاده می‌کنیم، اگر UNFPA تصمیم بر اعمال تغییرات در این بیانیه حفظ حریم خصوصی بگیرد، حتما شما را در جریان این تغییرات قرار می‌دهد.
+
+**شرایط استفاده**
+
+**الف)  بدون ضمانت**
+
+شما صراحتا اعلام می‌کنید و می‌پذیرید که خطرات استفاده از این اپلیکیشن به طور کامل بر عهده شماست. این اپلیکیشن و خدمات ارائه شده توسط آن "به شکلی که هست"، "مادامی که در دسترس باشد" و بدون هیچ گونه ضمانتی ارائه می‌شود و در مورد قابلیت استفاده تجاری از آن، کیفیت قابل قبول آن، مناسب بودن آن برای یک هدف خاص، دقیق بودن، استفاده بدون نیاز به مداخله و عدم نقض حقوق طرفین ثالث هیچ ضمانت ضمنی و یا شرایط صریح ارائه نمی‌دهد، علاوه بر این UNFPA در رابطه با این اپلیکیشن و خدمات ارائه شده توسط آن، هیچگونه ضمانتی به شکل سیستماتیک و ضمنی ارائه نداده و نیز مسئولیت نمایندگی را نمی‌پذیرد.
+
+**ب. محدوده مسئولیت‌ها**
+
+UNFPA در برابر کلیه صدمات فیزیکی، ضررها و آسیب‌هایی نظیر از دست دادن سود، از بین رفتن داده‌ها، ایجاد تعلل در کار یا سایر خسارات یا زیان‌های تجاری، صرف نظر از اینکه نوع مسئولیت چه چیزی باشد (قرارداد، عملی ناحق یا هر دلیلی دیگر) و بدون توجه به علت آن و نحوه بروز آنها، خواه به شکل تصادفی پیش آمده یا مختص موقعیت خاص باشند، به شکل مستقیم بروز کرده یا نتیجه غیرمستقیم عملی خاص باشند، ناشی از استفاده یا عدم استفاده از اپلیکیشن باشند، حتی اگر UNFPA را در جریان احتمال بروز چنین خسارت و آسیبی قرار داده باشید، به هیچ وجه مسئولیت قبول نکرده و مسئول شناخته نمی‌شود.
+
+**ج- سلب مسئولیت از لینک‌هایی که به سایت‌های دیگر ارجاع می‌دهند و بارگذاری محتوا در شبکه های اجتماعی**
+
+این اپلیکیشن ممکن است حاوی لینک‌های پیوندی باشد که توسط آنها دسترسی به خدمات و وب سایت‌های UNFPA و/یا اشخاص ثالث (به شکل جدا جدا و در حالت کلی "خدمات خارجی" نامیده می‌شوند) فراهم شود. مسئولیت استفاده از خدمات خارجی کاملاً بر عهده خود شماست. UNFPA نمی‌تواند مسئولیت کنترل محتوا یا صحت خدمات خارجی را بر عهده گرفته و آنها را ارزیابی کند و از خدمات خارجی ارائه شده توسط اشخاص ثالث مسئول شناخته نمی‌شود. داده‌های به نمایش گذاشته‌شده در این اپلیکیشن یا لینک‌های پیوندی آن، از جمله داده‌های مالی، پزشکی و موقعیت مکانی (که تنها محدود به این موارد نیستند)، تنها با هدف اطلاعات عمومی نمایش داده می‌شوند و تحت ضمانت UNFPA یا نهادهای وابسته به آن نیستند. از داده‌های جای گرفته در لینک‌های پیوندی، نمی‌توان مغایر با شرایط استفاده یا به نحوی که ناقض حقوق مالکیت معنوی UNFPA یا اشخاص ثالث باشد، استفاده کرد. شما می‌پذیرید که نمی‌توانید از اطلاعات جای گرفته در لینک‌های پیوندی برای آزار، سوء استفاده، تعقیب مصرانه، تهدید یا بدنام‌سازی یک شخص یا یک موسسه استفاده کنید و در صورت بروز چنین وضعیتی UNFPA مسئول نخواهد بود. خدمات خارجی (لینک‌های پیوندی) ممکن است به همه زبان‌ها یا در کشور شما در دسترس نباشد یا استفاده از آنها در مکانهای خاص درست نباشد یا این خدمات در آن مکان‌ها اصلا ارائه نشود. پیروی از تمامی قوانین مربوط به استفاده از خدمات خارجی، تنهادر مسئولیت شخص شماست. UNFPA می‌تواند هر زمان که بخواهد و بدون اطلاع شما، شرایط دسترسی به خدمات خارجی را تغییر دهد، به تعلیق درآود، آنها را حذف کند، دسترسی به آنها را محدود کرده یا به طور کامل مسدود کند و این حق را برای خود محفوظ نگه می‌دارد. UNFPA در مورد شیوه‌های حفظ حریم خصوصی، شرایط استفاده یا محتوای ارائه شده توسط خدمات خارجی هیچ‌گونه مسئولیتی را نمی‌پذیرد.
+
+وقتی محتوایی را در اپلیکیشن یا هر شبکه اجتماعی بارگذاری کرده و UNFPA را برچسب‌گذاری می‌کنید، محتوای بارگذاری شده، تابع شرایط استفاده و سیاست حفظ حریم خصوصی وب سایت خواهد بود. UNFPA از شرایط استفاده، شیوه‌های حفظ حریم خصوصی یا محتوای این شبکه‌های اجتماعی و وب سایت‌ها مسئول نیست.
+
+**ت - امتیازات و معافیت‌ها**
+
+هیچ جمله مندرج در این بیانیه حفظ حریم خصوصی یا شرایط استفاده، نمی‌تواند به شکل محدود کردن امتیازات و معافیت‌های ویژه سازمان ملل متحد و نهادهای وابسته به آن یا چشم‌پوشی کردن از آنها تعبیر و تفسیر شود.
+
+در صورت داشتن سواا در زمینه بیانیه حفظ حریم خصوصی یا شرایط استفاده می‌توانید سوالات خود را به آدرس amber@unfpa.org ارسال کنید.
+
+**اعلام رضایت صریح و  روشن**
+
+در مورد نحوه ذخیره، پردازش و انتقال اطلاعات شخصی من توسط این اپلیکیشن اطلاعات لازم را دریافت کردم و بیانیه حفظ حریم خصوصی را خواندم.
+
+فرصت لازم برای ارزیابی این اطلاعات و پرسیدن سوالات مربوط به آن در اختیار من قرار داده شد و زمینه لازم برای دریافت پاسخ‌های قانع‌کننده به این سوالات فراهم گردید.
+
+من می‌دانم که در صورت تمایل می‌توانم از این اپلیکیشن استفاده کنم و در هر زمان که بخواهم می‌توانم استفاده از این اپلیکیشن را متوقف کنم. من حق دارم به محض قطع استفاده از اپلیکیشن از UNFPA بخواهم که اطلاعات شخصی من را پاک کند.
+
+من می‌پذیرم که داده‌های شخصی من با هدف ارائه خدمات بهتر به من برای حداکثر زمان لازم ذخیره شده و در چارچوب اهداف از پیش تعیین شده، در اختیار ارائه‌دهندگان خدمات مربوطه، در داخل و خارج از کشور قرار گیرد.
+
+بدینوسیله رضایت خود را با  پردازش داده‌های شخصی‌ام توسط UNFPA مطابق آنچه که در بیانیه حفظ حریم خصوصی اعلام شد، بیان می‌کنم.
 
 -
