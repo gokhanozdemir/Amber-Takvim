@@ -1,3 +1,7 @@
+---
+layout: ltr
+---
+
 # UNFPA GBV Mobile Application Terms of Use and Privacy Notice
 
 **Privacy Notice**

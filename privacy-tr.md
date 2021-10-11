@@ -1,3 +1,7 @@
+---
+layout: ltr
+---
+
 # UNFPA TCDŞ Telefon Uygulaması Kullanıcı Koşulları ve Gizlilik Bildirimi
 
 **Gizlilik Bildirimi**
